@@ -1,0 +1,29 @@
+﻿  Source.cpp
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(4): warning C4081: expected 'newline'; found ';'
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(12): warning C4091: 'typedef ' : ignored on left of 'SortInfo' when no variable is declared
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(16): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(441): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(431) : definition of 'i' ignored
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(423) : definition of 'i' used
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(450): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(431) : definition of 'i' ignored
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(423) : definition of 'i' used
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(459): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(431) : definition of 'i' ignored
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(423) : definition of 'i' used
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(468): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(431) : definition of 'i' ignored
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(423) : definition of 'i' used
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(478): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(431) : definition of 'i' ignored
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(423) : definition of 'i' used
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(488): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(431) : definition of 'i' ignored
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(423) : definition of 'i' used
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(498): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(431) : definition of 'i' ignored
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(423) : definition of 'i' used
+c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(507): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(431) : definition of 'i' ignored
+          c:\users\vinhcute\downloads\1712914_do_an_2\1712914_do_an_2\source.cpp(423) : definition of 'i' used
+  1712914_DO_AN_2.vcxproj -> C:\Users\VinhCute\Downloads\1712914_DO_AN_2\Debug\1712914_DO_AN_2.exe

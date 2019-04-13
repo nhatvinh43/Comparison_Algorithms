@@ -1,0 +1,30 @@
+Truong hop sap xep 100 phan tu:
+Thoi gian: 0.000000; So phep gan: 394; So phep so sanh: 588
+Truong hop sap xep 100 phan tu:
+Thoi gian: 0.000000; So phep gan: 394; So phep so sanh: 588
+Truong hop sap xep 100 phan tu:
+Thoi gian: 0.000000; So phep gan: 394; So phep so sanh: 588
+Truong hop sap xep 1000 phan tu:
+Thoi gian: 0.000000; So phep gan: 6607; So phep so sanh: 11213
+Truong hop sap xep 1000 phan tu:
+Thoi gian: 0.000000; So phep gan: 6607; So phep so sanh: 11213
+Truong hop sap xep 1000 phan tu:
+Thoi gian: 0.000000; So phep gan: 6607; So phep so sanh: 11213
+Truong hop sap xep 10000 phan tu:
+Thoi gian: 0.000000; So phep gan: 77621; So phep so sanh: 156992
+Truong hop sap xep 10000 phan tu:
+Thoi gian: 0.000000; So phep gan: 83799; So phep so sanh: 156723
+Truong hop sap xep 10000 phan tu:
+Thoi gian: 0.000000; So phep gan: 83799; So phep so sanh: 156723
+Truong hop sap xep 100000 phan tu:
+Thoi gian: 0.032000; So phep gan: 1041712; So phep so sanh: 2027100
+Truong hop sap xep 100000 phan tu:
+Thoi gian: 0.016000; So phep gan: 1090100; So phep so sanh: 2031985
+Truong hop sap xep 100000 phan tu:
+Thoi gian: 0.016000; So phep gan: 973970; So phep so sanh: 2014815
+Truong hop sap xep 1000000 phan tu:
+Thoi gian: 0.219000; So phep gan: 10568431; So phep so sanh: 35033270
+Truong hop sap xep 1000000 phan tu:
+Thoi gian: 0.235000; So phep gan: 10547196; So phep so sanh: 35573236
+Truong hop sap xep 1000000 phan tu:
+Thoi gian: 0.234000; So phep gan: 11189344; So phep so sanh: 35095345

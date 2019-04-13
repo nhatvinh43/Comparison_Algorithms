@@ -1,0 +1,30 @@
+Truong hop sap xep 100 phan tu:
+Thoi gian: 0.000000; So phep gan: 600; So phep so sanh: 0
+Truong hop sap xep 100 phan tu:
+Thoi gian: 0.000000; So phep gan: 600; So phep so sanh: 0
+Truong hop sap xep 100 phan tu:
+Thoi gian: 0.000000; So phep gan: 600; So phep so sanh: 0
+Truong hop sap xep 1000 phan tu:
+Thoi gian: 0.000000; So phep gan: 6000; So phep so sanh: 0
+Truong hop sap xep 1000 phan tu:
+Thoi gian: 0.000000; So phep gan: 6000; So phep so sanh: 0
+Truong hop sap xep 1000 phan tu:
+Thoi gian: 0.000000; So phep gan: 6000; So phep so sanh: 0
+Truong hop sap xep 10000 phan tu:
+Thoi gian: 0.000000; So phep gan: 60000; So phep so sanh: 0
+Truong hop sap xep 10000 phan tu:
+Thoi gian: 0.016000; So phep gan: 60000; So phep so sanh: 0
+Truong hop sap xep 10000 phan tu:
+Thoi gian: 0.000000; So phep gan: 60000; So phep so sanh: 0
+Truong hop sap xep 100000 phan tu:
+Thoi gian: 0.047000; So phep gan: 600000; So phep so sanh: 0
+Truong hop sap xep 100000 phan tu:
+Thoi gian: 0.047000; So phep gan: 600000; So phep so sanh: 0
+Truong hop sap xep 100000 phan tu:
+Thoi gian: 0.031000; So phep gan: 600000; So phep so sanh: 0
+Truong hop sap xep 1000000 phan tu:
+Thoi gian: 0.485000; So phep gan: 6000000; So phep so sanh: 0
+Truong hop sap xep 1000000 phan tu:
+Thoi gian: 0.438000; So phep gan: 6000000; So phep so sanh: 0
+Truong hop sap xep 1000000 phan tu:
+Thoi gian: 0.453000; So phep gan: 6000000; So phep so sanh: 0
